@@ -15,3 +15,4 @@ langchain_huggingface
 streamlit
 langchain-chroma
 langchain_groq
+deep-translator
