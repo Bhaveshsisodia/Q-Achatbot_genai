@@ -63,6 +63,12 @@ Run the chatbot ▶️
 streamlit run app.py
 ```
 
+▶️ Please Visit Link to use Application and please provide Groq api in sidebar app
+```
+https://q-achatbotgenai-esvlcgfre2ysgafkkaddpt.streamlit.app/
+```
+![Uploading image.png…]()
+
 
 📂 Folder Structure
 ```
