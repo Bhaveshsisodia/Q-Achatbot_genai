@@ -46,14 +46,14 @@ You can check by running:
 ```bash
 python --version
 
-2️⃣ Installation Steps
-Clone this repository 📂
-```
+
 git clone https://github.com/Bhaveshsisodia/Q-Achatbot_genai.git
 cd Q-Achatbot_genai
-```
 
 Install the required Python libraries 📦
+```
+2️⃣ Installation Steps
+Clone this repository 📂
 ```
 pip install -r requirements.txt
 ```
@@ -63,14 +63,19 @@ Run the chatbot ▶️
 streamlit run app.py
 ```
 
+
 📂 Folder Structure
 ```
+
 Q-Achatbot_genai/
 ├── data/             # Your dataset files (optional)
 ├── src/              # Source code for the chatbot
 ├── app.py            # Main entry file for the Streamlit app
 ├── requirements.txt  # Python libraries required
 └── README.md         # Project documentation (this file)
+
+```
+
 
 
 ```
